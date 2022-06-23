@@ -17,7 +17,7 @@
 
 
 
-                    {{ __('You are logged in!') }}
+                    {{ __('This is home page, You are logged in!') }}
                 </div>
             </div>
         </div>
